@@ -14,7 +14,10 @@ Project Creator Page: https://sametbugraoktay.github.io
 
 Example page views:
 
+Fullscreen on browser:
 ![Screenshot](personal-website-template/screenshots/fullscreen.png)
+
+Responsive screens:
 ![Screenshot](personal-website-template/screenshots/responsive.png)
 
 REFERENCES:
