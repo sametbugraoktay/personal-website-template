@@ -12,13 +12,10 @@ You can add or remove new sections or customize them as you wish.
 
 Project Creator Page: https://sametbugraoktay.github.io
 
-Example page views:
+Example page views Fullscreen and Responsive:
 
-Fullscreen on browser:
 ![Screenshot](personal-website-template/screenshots/fullscreen.png)
 
--------
-Responsive screens:
 ![Screenshot](personal-website-template/screenshots/responsive.png)
 
 REFERENCES:
