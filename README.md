@@ -21,4 +21,3 @@ You can add or remove new sections or customize them as you wish.
 **REFERENCES:**
 
 Icon images have been downloaded from https://akveo.github.io/eva-icons/#/ 
-markda
