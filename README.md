@@ -11,7 +11,7 @@ Anyone can use the template on github pages (https://pages.github.com) or on cus
 You can add or remove new sections or customize them as you wish.
 
 
-Project Creator Page: https://sametbugraoktay.github.io
+Sample Page: https://sametbugraoktay.github.io
 
 Example Page View:
 
